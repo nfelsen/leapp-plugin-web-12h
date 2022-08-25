@@ -1,8 +1,8 @@
 {
   "name": "websession-12h",
   "author": "Nat",
-  "version": "0.0.1",
-  "description": "Create aws web sessions that don't last only 1h",
+  "version": "0.0.3",
+  "description": "open the AWS web console in a session that can last up to 12h",
   "keywords": [
     "leapp-plugin",
     "web sessions",
@@ -17,9 +17,7 @@
     "supportedSessions": [
       "awsIamRoleFederated",
       "awsIamRoleChained",
-      "awsSsoRole",
-      "awsIamUser",
-      "aws"
+      "awsSsoRole"
     ]
   },
   "scripts": {

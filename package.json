@@ -1,7 +1,7 @@
 {
   "name": "websession-12h",
   "author": "Nat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "open the AWS web console in a session that can last up to 12h",
   "keywords": [
     "leapp-plugin",
