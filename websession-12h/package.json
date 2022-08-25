@@ -30,8 +30,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "@noovolari/leapp-core": "^0.1.117",
-    "websession-12h": "^0.0.1"
+    "@noovolari/leapp-core": "^0.1.117"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",

@@ -1,1 +1,1 @@
-export { ExamplePlugin } from "./example-plugin";
+export { Web12h } from "./web12h-plugin";
