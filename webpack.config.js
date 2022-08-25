@@ -17,7 +17,10 @@ module.exports = {
     new CopyPlugin({
       patterns: [
         { from: './package.json',
-          to: `./package.json`}
+          to: `./package.json`},
+        { from: './websession-12h/plugin.js',
+          to: `./plugin.js`}
+
       ]
     })
   ],
